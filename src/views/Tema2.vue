@@ -44,16 +44,16 @@
           .row
             .col-lg-7
               h3 Conocer los valores corporativos 
-              p En primer lugar, es primordial conocer detalladamente los valores de la organización y asumir el sentido de pertenencia. Conforme a ello, el área de gestión humana debe garantizar que todos los miembros que pertenecen a la organización cuenten con los conocimientos en relación a la misión, visión y valores corporativos estipulados en el plan de comunicación e inducción del personal de todos los niveles de la organización. El anterior debe ser implementado de manera periódica con el fin de evaluar los conocimientos adquiridos y validar la eficacia de la formación.s.
+              p En primer lugar, es primordial conocer detalladamente los valores de la organización y asumir el sentido de pertenencia. Conforme a ello, el área de gestión humana debe garantizar que todos los miembros que pertenecen a la organización cuenten con los conocimientos en relación a la misión, visión y valores corporativos estipulados en el plan de comunicación e inducción del personal de todos los niveles de la organización. El anterior debe ser implementado de manera periódica con el fin de evaluar los conocimientos adquiridos y validar la eficacia de la formación.
             .col-5.mt-5
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema2/t2-img4.png', alt='').img-pasosV
 
-          .row
+          .row.justify-content-right
             .col-5.mt-5
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema2/t2-img5.png', alt='').img-pasosV
-            .col-lg-7
+            .col-lg-7.texto-alineado1
               h3 Ser un modelo a seguir
               p Es uno de los métodos más efectivos de difusión de los valores corporativos. El liderazgo efectuado por los jefes de las áreas son tomados como ejemplo de acuerdo a las costumbres, actitudes y comportamientos asociados al cumplimiento y promulgación de una cultura basada en los criterios éticos; dado que en este ámbito los comportamientos son influenciables y replicados en todos los grupos internos de la organización.
 
@@ -117,15 +117,15 @@
               .row.justify-content-center
                 .col-8
                   img.img-a.img-t.mb-3(src="@/assets/curso/temas/tema2/t2-img12.png", alt="alt").img100.m-auto       
-              h3.text-center.mb-4 Decreto 255 de 2022
-              p.text-center.mb-0 El cual establece las normas corporativas vinculantes para la certificación de buenas prácticas en protección de datos personales y su transferencia a terceros países.
+              h3.text-center.mb-4 Decreto 1081 de 2015
+              p.text-center.mb-0 Mediante el cual se ilustran las directrices generales para la publicación de información pública.
 
             .tarjeta.tarjeta--slyder.p-4
               .row.justify-content-center
                 .col-8
                   img.img-a.img-t.mb-4(src="@/assets/curso/temas/tema2/t2-img13.png", alt="alt").img100.m-auto        
-              h3.text-center.mb-4 Decreto 1081 de 2015
-              p.text-center.mb-0 Mediante el cual se ilustran las directrices generales para la publicación de información pública.
+              h3.text-center.mb-4 Decreto 255 de 2022
+              p.text-center.mb-0 El cual establece las normas corporativas vinculantes para la certificación de buenas prácticas en protección de datos personales y su transferencia a terceros países.
 
 </template>
 

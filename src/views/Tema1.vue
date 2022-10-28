@@ -118,7 +118,7 @@
         .py-3(titulo="<i>Chat</i> en vivo o <i>Call center</i>" :icono="require('@/assets/curso/temas/tema1/t1-img11.svg')")
           .row.p-5
             .col-lg-8
-              p solicitudes y generación de empleos.
+              p En la actualidad, este mecanismo ha tomado gran popularidad como herramienta para la solución de solicitudes y generación de empleos.
               p La importancia en brindar a los usuarios una excelente prestación de los servicios ha sido pilar clave para las organizaciones, y es por esto que la implementación de este medio de comunicación brinda a los clientes una respuesta a las solicitudes en tiempo real y permite a los usuarios interactuar directamente con los miembros de la organización.
             .col-lg-4
               figure

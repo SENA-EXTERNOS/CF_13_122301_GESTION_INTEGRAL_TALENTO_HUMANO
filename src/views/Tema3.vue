@@ -34,19 +34,19 @@
           figure
             img(src='@/assets/curso/temas/tema3/t3-img3.png', alt='Texto que describa la imagen')
 
-        .tarjeta.estilo-cajon.p-3(x="27.3%" y="58%" numero="1")
+        .tarjeta.estilo-cajon.p-3(x="27.3%" y="58%" numero="+")
           .h5.mb-2 Trazabilidad ascendente 
           p Este método está directamente relacionado a los productos o servicios que salen del proveedor hacia el consumidor final. Este tipo de trazabilidad consiste en identificar y registrar los sucesos o hechos del proceso desde el punto de partida hasta la recepción en el cliente final, permitiendo identificar riesgos y posibles situaciones en particular y facilitando una respuesta efectiva al cliente. 
           p De igual manera, esta clasificación influye en la toma de decisiones en momentos claves, y en la disminución de la insatisfacción del cliente. Ejemplo:
           p ● Un usuario realiza seguimiento de la solicitud hecha al área de      compras de la organización, la cual mediante una plataforma puede visualizar el estado del producto, su localización y el personal que se encuentra encargado antes de la recepción en su área para finalizar con la entrega al cliente.
 
-        .tarjeta.estilo-cajon.p-3(x="55.4%" y="68.5%" numero="A")
+        .tarjeta.estilo-cajon.p-3(x="55.4%" y="68.5%" numero="+")
           .h5.mb-2 Trazabilidad descendente
           p Este tipo de trazabilidad suele ser común en solicitudes donde se debe identificar un suceso que afectó positiva o negativamente el bien o servicio que fue prestado al cliente. Es por ello, que el talento humano debe identificar la información histórica desde el momento de la recepción hasta el inicio de la operación.
           p Ejemplo:
           p ● El director de logística evidencia el reporte de una inconformidad con relación a la calidad del producto, él procede a informar al área de producción que revisa el listado operacional  para identificar quienes fueron las áreas, personas involucradas y el tiempo en el cual fue ocasionada esta inconformidad, así establecer las medidas correctivas y prevenir riesgos a futuro a causa de esta solicitud.
         
-        .tarjeta.estilo-cajon.p-3(x="72.5%" y="33%" numero="B")
+        .tarjeta.estilo-cajon.p-3(x="72.5%" y="33%" numero="+")
           .h5.mb-2 Trazabilidad Interna
           p Hace referencia al seguimiento al interior de las organizaciones, donde se identifican los indicadores de las materias primas, insumos, recursos y herramientas que hacen parte de los procesos en la cadena de suministro, tiene como objetivo registrar los movimientos de los mismos.
           p Ejemplo:

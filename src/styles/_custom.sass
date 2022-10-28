@@ -51,13 +51,15 @@
     right: 30% 
 //---------------------------------------------------------------------------------
 
-//Tamaño del banner principal y banner de los temas-------------------------------
+/**
+  *Tamaño del banner principal y banner de los temas/
 .banner-principal__img 
   width: 30%
   z-index: 1
 .banner-interno__fondo
   background-image: url("../assets/curso/portada/banner-interno.png") !important
-//--------------------------------------------------------------------------------  
+//--------------------------
+  
 
 //ajuste icono sintesis y color barra-------------------------
 .imagen-sintesis-1
@@ -81,7 +83,23 @@
   .img-animacion1
     animation: float1 3s ease-in-out infinite alternate
     position: relative
-    top: 0rem
+    top: -1rem
+    right: 0%
+    width: 100%
+
+//animación imagen flotante Introducción
+.img-animacion2
+  animation: float1 3s ease-in-out infinite alternate
+  position: relative
+  top: 0rem
+  right: 0%
+  width: 100%
+
+@media (max-width:500px)
+  .img-animacion2
+    animation: float1 3s ease-in-out infinite alternate
+    position: relative
+    top: -2rem
     right: 0%
     width: 100%
 //--------------------------------------------------------
@@ -95,7 +113,7 @@
 //------------------------------------------------------------------------------------  
 
 //background tema1 -----------------------------------------------------
-//background superior
+//superior
 .bkg-t1-superior
   position: relative
   .row, figure, p, h3, .titulo-sexto.color-primario
@@ -112,7 +130,7 @@
     background-repeat: no-repeat
     background-position: center top
 
-//background inferior
+//inferior
 .bkg-t1-inferior
   background-image: url(../assets/curso/temas/tema1/t1-bkg2.png)
   background-repeat: no-repeat
@@ -121,7 +139,7 @@
 //-------------------------------------------------------------------
 
 //background tema2 -----------------------------------------------------
-//background superior
+//superior
 .bkg-t2-superior
   position: relative
   .row, figure, p, h3, .titulo-sexto.color-primario
@@ -138,7 +156,7 @@
     background-repeat: no-repeat
     background-position: center top
 
-//background inferior
+//inferior
 .bkg-t2-inferior
   background-image: url(../assets/curso/temas/tema2/t2-bkg2.png)
   background-repeat: no-repeat
@@ -222,27 +240,50 @@
     align-items: stretch !important    
 //------------------------------------------------------  
 
-//custo para el cajón de la imagen inforgrafica----
+//alineación de texto y estilo linea
+//pasos-a
+//tema 2
+.texto-alineado1
+  text-align: left
+
+.pasos-a__linea__esquina__linea
+  border-radius: inherit
+//----------------------------------------
+  
+//imagenInfografica-----------------------------
+//tema 3
+//estilo cajon emergente
 .estilo-cajon
   background-color: #F6F6F6
   border-left: 35px solid #7FC733 !important
+  //margin-right: 23px
+  //margin-left: -66px
+  margin-left: -206px
+  margin-right: -9px
+
+@media ( max-width: 500px )
+  .estilo-cajon
+    background-color: #F6F6F6
+    border-left: 35px solid #7FC733 !important
+    margin-right: 23px
+    margin-left: -66px     
+
+///imagen infografica color de item
+.img-infografica.color-acento-botones .img-infografica__item__numero, .img-infografica-b.color-acento-botones .img-infografica__item__numero
+    color: #000000
 //-------------------------------------------------
 
 ///// Custom acordeon A tipo A tema 3-------------------------------------- 
 .clr--gris
   background-color: #F7F4FF
 
-.tarjeta.acordeonA
-  background-color: #F7F4FF !important
-
 .acordion__accion__btn--b
   background-color: #E8E1F6
-
-.acordion__accion__btn--b 
-    border: 1px solid #111e6100;
+  border: 1px solid #111e6100;
 
 .acordion__activo
   background-color: #fdf3e1 !important
+  
 //-------------------------------------------------------------------
 
 
