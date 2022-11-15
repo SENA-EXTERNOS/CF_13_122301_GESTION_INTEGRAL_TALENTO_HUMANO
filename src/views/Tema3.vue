@@ -12,7 +12,7 @@
         figure
           img(src='@/assets/curso/temas/tema3/t3-img1.png', alt='Texto que describa la imagen')
       .col-lg-8.col-xs-6.mt-2
-        p La trazabilidad hace referencia al conjunto de actividades concatenadas cuyo objetivo es realizar seguimiento a cada eslabón del proceso mediante el cual se desarrolla la elaboración de un producto o la prestación de un servicio. A través de la revisión que se efectúa en este método de inspección se logran evidenciar avances, errores y fortalezas del proceso, permitiendo la articulación de indicadores; estos últimos son una herramienta importante para la identificar a las personas responsables de los procesos de acuerdo a los datos históricos y a los posibles planes de acción ejecutados, así poder ejercer un mayor control sobre los sucesos que puedan surgir a lo largo de la cadena
+        p La trazabilidad hace referencia al conjunto de actividades concatenadas cuyo objetivo es realizar seguimiento a cada eslabón del proceso mediante el cual se desarrolla la elaboración de un producto o la prestación de un servicio. A través de la revisión que se efectúa en este método de inspección se logran evidenciar avances, errores y fortalezas del proceso, permitiendo la articulación de indicadores; estos últimos son una herramienta importante para identificar a las personas responsables de los procesos de acuerdo a los datos históricos y a los posibles planes de acción ejecutados, así poder ejercer un mayor control sobre los sucesos que puedan surgir a lo largo de la cadena
 
     .row.justify-content-start.align-items-center.mb-4.mt-5
       .col-lg-5
@@ -47,7 +47,7 @@
           p ● El director de logística evidencia el reporte de una inconformidad con relación a la calidad del producto, él procede a informar al área de producción que revisa el listado operacional  para identificar quienes fueron las áreas, personas involucradas y el tiempo en el cual fue ocasionada esta inconformidad, así establecer las medidas correctivas y prevenir riesgos a futuro a causa de esta solicitud.
         
         .tarjeta.estilo-cajon.p-3(x="72.5%" y="33%" numero="+")
-          .h5.mb-2 Trazabilidad Interna
+          .h5.mb-2 Trazabilidad interna
           p Hace referencia al seguimiento al interior de las organizaciones, donde se identifican los indicadores de las materias primas, insumos, recursos y herramientas que hacen parte de los procesos en la cadena de suministro, tiene como objetivo registrar los movimientos de los mismos.
           p Ejemplo:
           p ● El área de producción de la organización requiere establecer un plan de producción y la asignación de recursos para la elaboración de un producto. Se decide realizar la medición de la materia prima utilizada en la construcción del producto mediante la trazabilidad del listado operacional revisando los datos históricos y planteando metas para la optimización del recurso.
@@ -89,7 +89,7 @@
       .row.justify-content-center.mt-5
         .col-lg-10.justify-content-center
           .cajon.color-acento-contenido.p-4
-            p Ha finalizado el estudio de este recurso educativo. Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados      
+            p Ha finalizado el estudio de este recurso educativo. Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.
 
 
 </template>

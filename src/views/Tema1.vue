@@ -71,10 +71,11 @@
         p A continuación, se presentan seis herramientas para agilizar las respuestas a los solicitantes:
         .col-lg-9.justify-content-center.mt-3
           figure
-            img(src='@/assets/curso/temas/tema1/t1-img6.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema1/t1-img6.svg', alt='Texto que describa la imagen')
               
       .row.justify-content-center
         p.mt-3 Es importante que las organizaciones adopten e implementen métodos o herramientas con la ayuda de la tecnología, con el propósito de reducir los tiempos de respuesta a los clientes. Estas pueden convertirse en estratégicas orientadas al éxito de la organización y a la satisfacción del cliente. Asimismo, la adopción de nuevas y mejoradas tecnologías permite a los directivos estimular a los colaboradores hacia el mejoramiento continuo en el entorno profesional, logrando, en corto plazo, la toma de conciencia para prestar un excelente servicio al cliente; además, impulsa en la organización la optimización de recursos para el cumplimiento de los acuerdos de servicios establecidos en la promesa de valor.
+        p A continuación, se presentarán seis herramientas orientadas al éxito de la organización y la satisfacción del cliente: 
 
     .row.justify-content-center.mb-5
       TabsB.color-primario.mt-3
@@ -100,7 +101,7 @@
             .col-lg-8
               p Estar a la vanguardia en los avances tecnológicos impulsa a que los empresarios inviertan recursos económicos de las organizaciones en la implementación de #[i software] o portal de preguntas frecuentes con el fin de generar valor agregado y facilitar a los usuarios la solución o respuesta a las dudas específicas que requieren en un trámite básico. De igual manera, la adquisición de estas herramientas permite a los trabajadores liberarse de cargas de trabajo y enfocarlos en solicitudes con mayor complejidad.
               p Este tipo de plataformas se caracterizan por ser estructuradas conforme con las bases de datos que tiene la organización, y están relacionadas a preguntas y solicitudes históricas o frecuentes realizadas por los usuarios.
-              p En relación con esta herramienta, las empresas optan por establecerlas al interior de páginas #[i web] o apps de mensajería instantánea con el fin de obtener agilidad del proceso, permitir a los usuarios solucionar rápidamente sus inquietudes y fortalecer la experiencia positiva del cliente a través de estos mecanismos.
+              p En relación con esta herramienta, las empresas optan por establecerlas al interior de páginas #[i web] o #[em apps] de mensajería instantánea con el fin de obtener agilidad del proceso, permitir a los usuarios solucionar rápidamente sus inquietudes y fortalecer la experiencia positiva del cliente a través de estos mecanismos.
             .col-lg-4
               figure
                 img(src='@/assets/curso/temas/tema1/t1-img15.png', alt='Texto que describa la imagen')
@@ -109,7 +110,7 @@
         .py-3(titulo="<i>Chatbot</i>" :icono="require('@/assets/curso/temas/tema1/t1-img10.svg')")
           .row.p-5
             .col-lg-8
-              p Esta herramienta cuenta con bases muy similares a los portales de preguntas frecuentes. Sin embargo, el #[i chatbot] está relacionado a la implementación de apps con mensajería instantánea.
+              p Esta herramienta cuenta con bases muy similares a los portales de preguntas frecuentes. Sin embargo, el #[i chatbot] está relacionado a la implementación de #[em apps] con mensajería instantánea.
               p Este mecanismo consta en remitir la respuesta de solicitudes relacionadas a las preguntas frecuentes en tiempo real y pueden estar disponibles a cualquier hora del día, así se disminuyen los tiempos de respuesta, y en los casos que el #[i chatbot] no cuente con la respuesta solicitada por el usuario esta puede ser remitida de manera ágil a otra herramienta u otro portal, brindando la seguridad al cliente que su solicitud será tramitada y su experiencia sea correcta, ágil y efectiva.
             .col-lg-4
               figure
@@ -127,7 +128,7 @@
         .py-3(titulo="Respuestas automáticas" :icono="require('@/assets/curso/temas/tema1/t1-img12.svg')")
           .row.p-5
             .col-lg-8
-              p Mediante la construcción de plataformas o #[i apps] de mensajería instantánea la organización asegura que el cliente tenga respuesta de manera inmediata frente a las necesidades, inconvenientes o dudas que hayan surgido. En este sentido, este mensaje o respuesta automática, dada a los clientes, busca brindar un parte de tranquilidad, y una notificación formal de la recepción de la solicitud. Cabe aclarar que esta herramienta se encuentra alineada con los tipos de software de servicio al cliente y los #[i chatbots].
+              p Mediante la construcción de plataformas o #[i apps] de mensajería instantánea la organización asegura que el cliente tenga respuesta de manera inmediata frente a las necesidades, inconvenientes o dudas que hayan surgido. En este sentido, este mensaje o respuesta automática, dada a los clientes, busca brindar un parte de tranquilidad, y una notificación formal de la recepción de la solicitud. Cabe aclarar que esta herramienta se encuentra alineada con los tipos de #[em software] de servicio al cliente y los #[i chatbots].
             .col-lg-4
               figure
                 img(src='@/assets/curso/temas/tema1/t1-img18.png', alt='Texto que describa la imagen')

@@ -2,15 +2,8 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-sexto.color-acento-contenido1.mb-5
-      .row.mb-2
-        h5 Gestión integral de procesos del talento humano
-      .row
-        span Síntesis: Orientación y respuesta a los usuarios
-    
-    img(src="@/assets/curso/temas/sintesis-img1.svg", alt="alt").imagen-sintesis-1
-
-    p En el siguiente diagrama se especifican los componentes que comprenden la orientación y respuesta a los usuarios de acuerdo a la atención y servicio al cliente, identificando correctamente las metodologías y técnicas que lo componen para efectuar las respuestas eficaces a los clientes.
+    .row.justify-content-center
+      p En el siguiente diagrama se especifican los componentes que comprenden la orientación y respuesta a los usuarios de acuerdo a la atención y servicio al cliente, identificando correctamente las metodologías y técnicas que lo componen para efectuar las respuestas eficaces a los clientes.
 
     .row.justify-content-center.mt-5
       .col-lg-10.mb-5
