@@ -34,7 +34,7 @@
           .bloque-texto-g.color-primario.p-2.p-sm-4.p-md-5
             .bloque-texto-g__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/t2-img3.png')})`}")
             .bloque-texto-g__texto.p-4
-              p Dentro de este proceso se debe garantizar el cumplimiento de los criterios éticos en las organizaciones. Por ello, una de las principales estrategias empresariales es la implementación de un #[strong Código de ética y conducta.] Este código es un instrumento que permite medir el cumplimiento de las metas organizacionales de forma honesta e íntegra; con este documento se ratifica el propósito de asegurar y mantener la confianza que cada de las partes interesadas, de tal manera que se asegure la información y se impulse el fortalecimiento de la reputación organizacional.
+              p Dentro de este proceso, se debe garantizar el cumplimiento de los criterios éticos en las organizaciones. Por tal razón, una de las principales estrategias empresariales es la implementación de un #[b Código de ética y conducta.] Este código es un instrumento que permite medir el cumplimiento de las metas organizacionales de forma honesta e íntegra; con este documento, se ratifica el propósito de asegurar y mantener la confianza que cada una de las partes interesadas, de tal manera que se asegure la información y se impulse el fortalecimiento de la reputación organizacional.
 
       .row.justify-content-center.mt-4
         p Para poner en práctica las estrategias encaminadas al cumplimiento ético en las organizaciones hay que tener en cuenta tres criterios:
@@ -43,8 +43,8 @@
         PasosA.color-acento-contenido.mb-2(tipo="l")
           .row
             .col-lg-7
-              h3 Conocer los valores corporativos 
-              p En primer lugar, es primordial conocer detalladamente los valores de la organización y asumir el sentido de pertenencia. Conforme a ello, el área de gestión humana debe garantizar que todos los miembros que pertenecen a la organización cuenten con los conocimientos en relación a la misión, visión y valores corporativos estipulados en el plan de comunicación e inducción del personal de todos los niveles de la organización. El anterior debe ser implementado de manera periódica con el fin de evaluar los conocimientos adquiridos y validar la eficacia de la formación.
+              h3 Conocer los valores corporativos
+              p En primer lugar, es primordial conocer detalladamente los valores de la organización y asumir el sentido de pertenencia. Conforme a esto, el área de gestión humana debe garantizar que todos los miembros que pertenecen a la empresa, cuenten con los conocimientos en relación a la misión, visión y valores corporativos, estipulados en el plan de comunicación e inducción del personal en todos los niveles jerárquicos. Lo anterior debe ser implementado de manera periódica, con el fin de evaluar los conocimientos adquiridos y validar la eficacia de la formación.
             .col-5.mt-5
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema2/t2-img4.png', alt='').img-pasosV
@@ -55,12 +55,12 @@
                 img(src='@/assets/curso/temas/tema2/t2-img5.png', alt='').img-pasosV
             .col-lg-7.texto-alineado1
               h3 Ser un modelo a seguir
-              p Es uno de los métodos más efectivos de difusión de los valores corporativos. El liderazgo efectuado por los jefes de las áreas son tomados como ejemplo de acuerdo a las costumbres, actitudes y comportamientos asociados al cumplimiento y promulgación de una cultura basada en los criterios éticos; dado que en este ámbito los comportamientos son influenciables y replicados en todos los grupos internos de la organización.
+              p Es uno de los métodos más efectivos de difusión de los valores corporativos. El liderazgo efectuado por los jefes de las áreas es tomado como ejemplo, de acuerdo a las costumbres, actitudes y comportamientos asociados al cumplimiento y promulgación de una cultura basada en los criterios éticos, dado que, en este ámbito, los comportamientos son influenciables y replicados en todos los grupos internos de la organización.
 
           .row
             .col-lg-7
-              h3 Identificar los dilemas éticos y denunciar 
-              p En todos los niveles jerárquicos organizacionales se pueden ver reflejados los dilemas éticos sin importar la función en la que se desempeñe, esto se puede evidenciar en la alteración de un informe de gestión o en la venta de información laboral con intereses particulares. En adición lo anterior, los miembros de la organización deben ser constantemente capacitados y sensibilizados en ética profesional, mecanismos de denuncia y políticas empresariales, con las que cuente la organización, impulsado a que los colaboradores cuenten con el coraje y el criterio moral para realizar denuncias y prevenir el riesgo de corrupción al interior de la empresa.
+              h3 Identificar los dilemas éticos y denunciar
+              p En todos los niveles jerárquicos organizacionales, se pueden ver reflejados los dilemas éticos sin importar la función en la que se desempeñen; esto se puede evidenciar en la alteración de un informe de gestión, o en la venta de información laboral con intereses particulares. En adición a lo anterior, los miembros de la organización deben ser constantemente capacitados y sensibilizados en ética profesional, mecanismos de denuncia y políticas empresariales con las que cuente la organización, impulsando a los colaboradores para que adquieran el coraje y el criterio moral para realizar denuncias y prevenir el riesgo de corrupción, al interior de la empresa.
             .col-5.mt-5
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema2/t2-img6.png', alt='').img-pasosV
@@ -80,7 +80,7 @@
           figure
             img(src='@/assets/curso/temas/tema2/t2-img7.png', alt='Texto que describa la imagen').img-animacion1
         .col-lg-10.col-xs-6.mt-2
-          p La normatividad es la base para la implementación de las políticas de tratamientos de datos personales y existe una amplia variedad de leyes y decretos que hacen referencia a las directrices del conducto regular sobre la confidencialidad de la información. Es fundamental identificar y conocer las generalidades para todo tipo de organizaciones con el objetivo de prevenir riesgos y sanciones al darle un manejo inadecuado a la información
+          p La normatividad es la base para la implementación de las políticas de tratamientos de datos personales y existe una amplia variedad de leyes y decretos que hacen referencia a las directrices del conducto regular sobre la confidencialidad de la información. Es fundamental identificar y conocer las generalidades para todo tipo de organizaciones, con el objetivo de prevenir riesgos y sanciones al darle un manejo inadecuado a la información.
 
       .row.justify-content-center.mt-4
         p La legislación colombiana establece una serie de leyes y decretos que reglamentan lo relacionado al cumplimento de la protección de los derechos de los usuarios y los deberes de las empresas frente al manejo adecuado de la información confidencial.
@@ -97,7 +97,7 @@
                 .col-8
                   img.img-a.img-t.mb-3(src="@/assets/curso/temas/tema2/t2-img9.png", alt="alt").img100.m-auto   
               h3.text-center.mb-2 Sentencia 748 de 2011 Corte Constitucional 
-              p.text-center.mb-0 Mediante la cual La Corte Constitucional realiza el Control de Constitucionalidad del proyecto de Ley Estatutaria No. 046/10 Cámara – 184/10 Senado, por medio de la cual se establecen las disposiciones generales del de habeas data y protección de datos personales.
+              p.text-center.mb-0 Mediante la cual la Corte Constitucional, realiza el Control de Constitucionalidad del proyecto de Ley Estatutaria No. 046/10 Cámara – 184/10 Senado, por medio de la cual se establecen las disposiciones generales del #[em habeas data] y protección de datos personales.
 
             .tarjeta.tarjeta--slyder.p-4
               .row.justify-content-center

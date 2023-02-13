@@ -43,8 +43,12 @@
         .tarjeta.estilo-cajon.p-3(x="55.4%" y="68.5%" numero="+")
           .h5.mb-2 Trazabilidad descendente
           p Este tipo de trazabilidad suele ser común en solicitudes donde se debe identificar un suceso que afectó positiva o negativamente el bien o servicio que fue prestado al cliente. Es por ello, que el talento humano debe identificar la información histórica desde el momento de la recepción hasta el inicio de la operación.
-          p Ejemplo:
-          p ● El director de logística evidencia el reporte de una inconformidad con relación a la calidad del producto, él procede a informar al área de producción que revisa el listado operacional  para identificar quienes fueron las áreas, personas involucradas y el tiempo en el cual fue ocasionada esta inconformidad, así establecer las medidas correctivas y prevenir riesgos a futuro a causa de esta solicitud.
+            br
+            br
+            |Ejemplo:
+            br
+            br
+            |● El director de logística evidencia el reporte de una inconformidad con relación a la calidad del producto, él procede a informar al área de producción que revisa el listado operacional  para identificar quienes fueron las áreas, personas involucradas y el tiempo en el cual fue ocasionada esta inconformidad, así establecer las medidas correctivas y prevenir riesgos a futuro a causa de esta solicitud.
         
         .tarjeta.estilo-cajon.p-3(x="72.5%" y="33%" numero="+")
           .h5.mb-2 Trazabilidad interna
@@ -79,8 +83,10 @@
             p Esta última, sirve como punto de partida para la toma de decisiones, articulación de planes de acción, conocer el estado de una solicitud, y reconocer las alternativas de solución o respuesta. Esta estrategia está encaminada a la satisfacción del cliente y atracción de nuevos mercados; de acuerdo a esta metodología ágil se propicia a la organización una imagen positiva y de competitividad frente a la competencia.
           
           .row(titulo="<i>Software</i>").p-4
-            p Las empresas siempre deben procurar estar a la vanguardia en temas de innovación, dado que es un factor de atracción de nuevos clientes y fidelización de los que ya se encuentran dentro de la organización. Implementar #[i software] direccionados a la trazabilidad de las solicitudes de los usuarios permite a los colaboradores de la organización registrar y visualizar los movimientos o actividades que han sido ejecutadas en tiempo real y tramitarlos; así brindar a los usuarios una respuesta eficiente a la solicitud del servicio.
-            p Este instrumento también permite a los colaboradores tener el control constante de la calidad del producto o servicio hasta la recepción del usuario; entregar la información en tiempo real como método de fidelización y atracción de clientes, del mismo modo es un factor clave para la toma de decisiones relacionadas a la solución eficaz y oportuna de las solicitudes de los clientes y la generación de experiencias positivas y armoniosas.
+            p Las empresas siempre deben procurar estar a la vanguardia en temas de innovación, dado que es un factor de atracción de nuevos clientes y fidelización de los que ya se encuentran dentro de la organización. Implementar software direccionados a la trazabilidad de las solicitudes de los usuarios, permite a los colaboradores de la organización registrar y visualizar los movimientos o actividades que han sido ejecutadas en tiempo real y tramitarlos, para brindar a los usuarios, una respuesta eficiente a la solicitud del servicio.
+              br
+              br
+              |Este instrumento también permite a los colaboradores tener el control constante de la calidad del producto o servicio hasta la recepción del usuario; entregar la información en tiempo real como método de fidelización y atracción de clientes, del mismo modo es un factor clave para la toma de decisiones relacionadas a la solución eficaz y oportuna de las solicitudes de los clientes y la generación de experiencias positivas y armoniosas.
       
       .col-lg-4.justify-content-center
         figure
@@ -89,8 +95,7 @@
       .row.justify-content-center.mt-5
         .col-lg-10.justify-content-center
           .cajon.color-acento-contenido.p-4
-            p Ha finalizado el estudio de este recurso educativo. Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.
-
+            p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 
 </template>
 

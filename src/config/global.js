@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Orientación y respuesta a los usuarios',
     descripcionCurso:
-      'El cliente desempeña un papel fundamental en el crecimiento de todo tipo de organizaciones; cuando un cliente consulta a una empresa un tema específico las respuestas precisas, concretas, agradables y con base en la normativa son un valor agregado al servicio. Este proceso permite orientar al talento humano hacia el cumplimiento de las metas, y considera a la satisfacción del cliente una estrategia de atracción de nuevos mercados.',
+      'El cliente desempeña un papel fundamental en el crecimiento de las organizaciones; cuando un cliente consulta a una empresa un tema específico como respuestas precisas, concretas, agradables y basadas en la normativa, conforman un valor agregado al servicio. Proceso que orienta al talento humano hacia el cumplimiento de metas, considerando la satisfacción del cliente como estrategia de atracción de nuevos mercados.umano hacia el cumplimiento de las metas, y considera a la satisfacción del cliente una estrategia de atracción de nuevos mercados.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -122,61 +122,57 @@ export default {
   },
   complementario: [
     {
-      tema: 'Normatividad legal',
+      tema: 'Respuesta a usuarios',
       referencia:
-        'Decreto 255 de 2022. [Ministerio de comercio, industria y turismo]. Por el cual se adiciona la Sección 7 al Capítulo 25 del Título 2 de la Parte 2 del Libro 2 del Decreto 1074 de 2015, Decreto Único Reglamentario del Sector Comercio, Industria y Turismo, sobre normas corporativas vinculantes para la certificación de buenas prácticas en protección de datos personales y su transferencia a terceros países. Febrero 23 de 2022.',
-      tipo: 'Decreto',
-      descarga: '/downloads/2.2c Decreto 255 de 2022.pdf',
+        'Ley 1755 de 2015 [Congreso de la república]. Por medio de la cual se regula el Derecho Fundamental de Petición y se sustituye un título del Código de Procedimiento Administrativo y de lo Contencioso Administrativo. Junio 30 de 2015.',
+      tipo: 'Documento legal',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=65334',
     },
     {
-      tema: 'Normatividad legal',
+      tema: 'Confidencialidad de la información',
       referencia:
         'Decreto 1081 de 2015. [Presidencia de la República]. Por medio del cual se expide el Decreto Reglamentario Único del Sector Presidencia de la República. Mayo 26 de 2015.',
-      tipo: 'Decreto',
-      descarga:
-        '/downloads/2.2b Decreto 1081 de 2015 Sector Presidencia de la República.pdf',
+      tipo: 'Documento legal',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=179087',
     },
     {
-      tema: 'Normatividad legal',
+      tema: 'Confidencialidad de la información',
+      referencia:
+        'Decreto 1081 de 2015. [Presidencia de la República]. Por medio del cual se expide el Decreto Reglamentario Único del Sector Presidencia de la República. Mayo 26 de 2015.',
+      tipo: 'Documento legal',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=73593',
+    },
+    {
+      tema: 'Confidencialidad de la información',
       referencia:
         'Decreto 1377 de 2013. [Ministerio de Ambiente y Desarrollo Sostenible]. Por el cual se reglamenta parcialmente la Ley 1581 de 2012, Derogado Parcialmente por el Decreto 1081 de 2015. Junio 27 de 2013.',
-      tipo: 'Decreto',
-      descarga: '/downloads/2.2a Decreto 1377 de 2013.pdf',
-    },
-    {
-      tema: 'Criterios éticos',
-      referencia:
-        'Arenal, C. (2018). Gestión de quejas y reclamaciones en materia de consumo: MF0245. Editorial Tutor Formación.',
-      tipo: 'Libro',
+      tipo: 'Documento legal',
       link:
-        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/44254',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=53646',
     },
     {
-      tema: 'Tiempos y plazos de respuesta',
-      referencia:
-        'Ley 1755 de 2015 [Congreso de la república]. Por medio de la cual se regula el Derecho Fundamental de Petición y se sustituye un título del Código de Procedimiento Administrativo y de lo Contencioso Administrativo. Junio 30 de 2015',
-      tipo: 'Ley',
-      descarga: '/downloads/1. Ley 1755 de 2015.pdf',
-    },
-    {
-      tema: 'Normatividad legal',
+      tema: 'Confidencialidad de la información',
       referencia:
         'Ley 1581 de 2012. [Ministerio de Ambiente y Desarrollo Sostenible]. Por la cual se dictan disposiciones generales para la protección de datos personales. Octubre 17 de 2012.',
-      tipo: 'Ley',
-      descarga: '/downloads/2.2 Ley1581de 2012.pdf',
+      tipo: 'Documento legal',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981 ',
     },
     {
-      tema: 'Normatividad legal',
+      tema: 'Confidencialidad de la información',
       referencia:
         'Sentencia 748 de 2011. [Corte Constitucional]. Control constitucional al Proyecto de Ley Estatutaria No. 184 de 2010 Senado; 046 de 2010 Cámara, por la cual se dictan disposiciones generales para la protección de datos personales. Octubre 6 de 2011.',
-      tipo: 'Sentencia',
-      descarga:
-        '/downloads/2.2d Sentencia_748_de_2011_Corte_Constitucional.pdf',
+      tipo: 'Documento legal',
+      link:
+        'https://www.corteconstitucional.gov.co/relatoria/2011/c-748-11.htm',
     },
     {
-      tema: 'Trazabilidad',
+      tema: 'Trazabilidad del servicio',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA (2021). Trazabilidad [Video]. YouTube. ',
+        'Ecosistema de Recursos Educativos Digitales SENA (2021). Trazabilidad [video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=YYuztIQETBc',
     },
@@ -232,13 +228,13 @@ export default {
   referencias: [
     {
       referencia:
-        'Izquierdo Carrasco, F. A. (2019). Atención al cliente en el proceso comercial.. IC Editorial.',
+        'Izquierdo Carrasco, F. A. (2019). <em>Atención al cliente en el proceso comercial.</em> IC Editorial. ',
       link:
-        'https://login.bdigital.sena.edu.co/login?qurl=https://elibro.net%2fes%2flc%2fsenavirtual%2ftitulos%2f113432',
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/44254',
     },
     {
       referencia:
-        'Mateos de Pablo Blanco, M. Á. (2019). Atención al cliente y calidad en el servicio. COMM002PO.. IC Editorial.',
+        'Mateos de Pablo Blanco, M. Á. (2019). <em>Atención al cliente y calidad en el servicio.</em> COMM002PO. IC Editorial.',
       link:
         'https://login.bdigital.sena.edu.co/login?qurl=https://elibro.net%2fes%2flc%2fsenavirtual%2ftitulos%2f124251',
     },

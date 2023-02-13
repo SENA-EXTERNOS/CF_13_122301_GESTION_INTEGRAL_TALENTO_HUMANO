@@ -17,7 +17,7 @@
           p Apreciado aprendiz, bienvenido al presente componente formativo, donde conocerá todo lo relacionado a la orientación y respuesta de los clientes internos y externos de la organización. Este proceso es una herramienta eficaz para la satisfacción del cliente de acuerdo a las solicitudes que son presentadas en la cotidianidad; permitiéndole a las empresas lograr fidelizar y atraer nuevos clientes, además contribuye al fortalecimiento del servicio interno dentro de la organización. Para obtener el flujo correcto del proceso se aplicarán elementos didácticos para comprender la importancia del talento humano en el desarrollo de su rol con relación a la respuesta a usuarios y de la temática en general.
 
     .row.justify-content-center
-      p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
+      p En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo:
 
     .row.mt-3
       .video
