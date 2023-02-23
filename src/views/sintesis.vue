@@ -3,7 +3,8 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .row.justify-content-center
-      p En el siguiente diagrama se especifican los componentes que comprenden la orientación y respuesta a los usuarios de acuerdo a la atención y servicio al cliente, identificando correctamente las metodologías y técnicas que lo componen para efectuar las respuestas eficaces a los clientes.
+      p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo.
+
 
     .row.justify-content-center.mt-5
       .col-lg-10.mb-5

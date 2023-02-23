@@ -48,7 +48,7 @@
             |Ejemplo:
             br
             br
-            |● El director de logística evidencia el reporte de una inconformidad con relación a la calidad del producto, él procede a informar al área de producción que revisa el listado operacional  para identificar quienes fueron las áreas, personas involucradas y el tiempo en el cual fue ocasionada esta inconformidad, así establecer las medidas correctivas y prevenir riesgos a futuro a causa de esta solicitud.
+            |● El director de logística, evidencia el reporte de una inconformidad con relación a la calidad del producto; él procede a informar al área de producción donde se revisa el listado operacional, para identificar cuáles fueron las áreas o personas involucradas y el momento en que se ocasionó esta inconformidad, para así establecer las medidas correctivas y prevenir riesgos a futuro, a causa de esta solicitud.
         
         .tarjeta.estilo-cajon.p-3(x="72.5%" y="33%" numero="+")
           .h5.mb-2 Trazabilidad interna

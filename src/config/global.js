@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Orientación y respuesta a los usuarios',
     descripcionCurso:
-      'El cliente desempeña un papel fundamental en el crecimiento de las organizaciones; cuando un cliente consulta a una empresa un tema específico como respuestas precisas, concretas, agradables y basadas en la normativa, conforman un valor agregado al servicio. Proceso que orienta al talento humano hacia el cumplimiento de metas, considerando la satisfacción del cliente como estrategia de atracción de nuevos mercados.umano hacia el cumplimiento de las metas, y considera a la satisfacción del cliente una estrategia de atracción de nuevos mercados.',
+      'El cliente desempeña un papel fundamental en el crecimiento de las organizaciones; cuando un cliente consulta a una empresa un tema específico como respuestas precisas, concretas, agradables y basadas en la normativa, conforman un valor agregado al servicio. Proceso que orienta al talento humano hacia el cumplimiento de metas, considerando la satisfacción del cliente como estrategia de atracción de nuevos mercados.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -234,7 +234,7 @@ export default {
     },
     {
       referencia:
-        'Mateos de Pablo Blanco, M. Á. (2019). <em>Atención al cliente y calidad en el servicio.</em> COMM002PO. IC Editorial.',
+        'Mateos de Pablo Blanco, M. Á. (2019). <em>Atención al cliente y calidad en el servicio.</em> COMM002PO. IC Editorial.<br>',
       link:
         'https://login.bdigital.sena.edu.co/login?qurl=https://elibro.net%2fes%2flc%2fsenavirtual%2ftitulos%2f124251',
     },
