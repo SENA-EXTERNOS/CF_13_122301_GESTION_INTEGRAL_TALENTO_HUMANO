@@ -135,14 +135,6 @@ export default {
         'Decreto 1081 de 2015. [Presidencia de la República]. Por medio del cual se expide el Decreto Reglamentario Único del Sector Presidencia de la República. Mayo 26 de 2015.',
       tipo: 'Documento legal',
       link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=179087',
-    },
-    {
-      tema: 'Confidencialidad de la información',
-      referencia:
-        'Decreto 1081 de 2015. [Presidencia de la República]. Por medio del cual se expide el Decreto Reglamentario Único del Sector Presidencia de la República. Mayo 26 de 2015.',
-      tipo: 'Documento legal',
-      link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=73593',
     },
     {
